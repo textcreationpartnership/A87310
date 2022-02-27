@@ -1,0 +1,252 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration and commission for three months assesment, of ten thousand pounds by the month beginning the 12th of April 1655, and ending the 12th of July following. April this 5. 1655. By the Lord Deputy and council. Ordered by the Lord Deputy and council, that this commission for the assesment, be forthwith printed and published. Tho: Herbert clerk of the council.</title>
+            <author>Ireland. Council for the Affairs of Ireland.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87310</idno>
+            <idno type="STC">Wing I367B</idno>
+            <idno type="STC">ESTC R227604</idno>
+            <idno type="EEBO-CITATION">99895256</idno>
+            <idno type="PROQUEST">99895256</idno>
+            <idno type="VID">152676</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87310)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152676)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2313:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration and commission for three months assesment, of ten thousand pounds by the month beginning the 12th of April 1655, and ending the 12th of July following. April this 5. 1655. By the Lord Deputy and council. Ordered by the Lord Deputy and council, that this commission for the assesment, be forthwith printed and published. Tho: Herbert clerk of the council.</title>
+                  <author>Ireland. Council for the Affairs of Ireland.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by William Bladen, Anno Dom,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the William Andrews Clark Memorial Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Taxation --  Ireland --  Early works to 1800.</term>
+               <term>Ireland --  History --  1649-1660 --  Early works to 1800.</term>
+               <term>Ireland --  Politics and government --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152676:1"/>
+            <!-- PDF PAGE 46 -->
+            <p>A DECLARATION AND COMMISSION for <hi>Three Months</hi> ASSESMENT, Of Ten thouſand Pounds by the Month; <hi>Beginning the</hi> 12<hi rend="sup">th</hi> 
+               <hi>of April</hi> 1655, <hi>and Ending the</hi> 12<hi rend="sup">th</hi> 
+               <hi>of July following.</hi>
+            </p>
+            <figure>
+               <figDesc>seal of the Commonwealth</figDesc>
+            </figure>
+            <p>
+               <hi>April this</hi> 5. 1655.</p>
+            <p>
+               <hi>By the Lord Deputy and Council.</hi>
+            </p>
+            <p>ORdered by the Lord Deputy and Council, That this Commiſſion for the Aſſeſment, be forthwith Printed and Publiſhed.</p>
+            <p>THO: HERBERT <hi>Clerk of the Council.</hi>
+            </p>
+            <p>
+               <hi>D<g ref="char:V">Ʋ</g>BLIN,</hi> Printed by WILLIAM BLADEN, <hi>Anno Dom.</hi> 1655.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:152676:2"/>
+            <!-- PDF PAGE 47 -->
+            <pb n="1" facs="tcp:152676:2"/>
+            <!-- PDF PAGE 47 -->
+            <head>IRELAND ¶ By the Lord Deputie and Council.</head>
+            <head type="sub">A <hi>DECLARATION</hi> and <hi>COMMISSION</hi> for three Months Aſſeſment of Ten thou<g ref="char:EOLhyphen"/>ſand Pounds by the Month, beginning the <hi>12</hi> of April <hi>1655,</hi> and ending the <hi>12</hi> of July following.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas by an Ordinance of his Highneſs the Lord Protector of the Common-wealth of <hi>Eng<g ref="char:EOLhyphen"/>land, Scotland.</hi> and <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> and the Dominions thereunto belong<g ref="char:EOLhyphen"/>ing, with the advice of his Council, bearing date the <hi>23<hi rend="sup">th</hi>.</hi> of <hi>Iune, 1654.</hi> Entituled, <hi>An Or<g ref="char:EOLhyphen"/>dinance for the further en<g ref="char:EOLhyphen"/>couragement of the Adven<g ref="char:EOLhyphen"/>turers for Lands in</hi> Ire<g ref="char:EOLhyphen"/>land, <hi>and of the Souldiers, and other Planters there.</hi> It is
+<pb n="2" facs="tcp:152676:3"/>
+               <!-- PDF PAGE 48 -->
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> things) that from and <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the <hi>24<hi rend="sup">th</hi>.</hi> Day of <hi>Iune 1<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>54.</hi> For and during the ſpace of two years, the<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ext e<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſuing, there ſhall be Taxed, Aſſeſſed, and Lea<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ie<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, upon all <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> places in <hi>Ireland,</hi> and all the Eſtates real and perſonal therein, the ſum of Ten thouſand pounds by the month, for every month, during the ſaid two years: It is, <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>efore <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Ordered, and Declared, that towards the pay of the forces of the Common-wealth to <hi>Ireland,</hi> and other publick charges, the Counties, Cities, and places, be charged for three months, with the ſums hereafter named, reſpectively, by the ſeveral ſums, and according to the ſeveral Rates, and proportions, and in manner and form hereafter expreſſed, <hi>viz.</hi>
+            </p>
+            <p>The Countie of <hi>Dublin,</hi> the ſum of thirteen hundred pounds for three months.</p>
+            <p>The City and County of <hi>Dublin,</hi> the ſum of eight hun<g ref="char:EOLhyphen"/>dred pounds for three months.</p>
+            <p>The Countie of <hi>Kilda<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> the ſum of ſix hundred pounds for three months.</p>
+            <p>The Countie of <hi>Catherlagh,</hi> the ſum of two hundred and nine pounds for three months.</p>
+            <p>The <hi>Kings</hi> County, the ſum of one hundred ſixty eight pounds for three months.</p>
+            <p>The Queens Countie, the ſum of three hundred forty ſix pounds for three months.</p>
+            <p>The County of <hi>Longford,</hi> the ſum of fifty pounds for three months.</p>
+            <pb n="3" facs="tcp:152676:3"/>
+            <!-- PDF PAGE 48 -->
+            <p>The Countie of <hi>Eaſt-Meath,</hi> the ſum of two thouſand <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> hundred ninety two pounds, for three months.</p>
+            <p>The County of <hi>Weſt-Meath,</hi> the ſum of four hundred pounds for three months.</p>
+            <p>The Countie of <hi>Kilkenny,</hi> the ſum of one thouſand five hundred eighty five pounds for three months.</p>
+            <p>The County of <hi>Wexford,</hi> the ſum of five hundred ninety nine pounds, for three months.</p>
+            <p>The County of <hi>Wicklo,</hi> the ſum of fifty ſeven pounds for three months.</p>
+            <p>The Countie of <hi>Limerick,</hi> with the City and Countie thereof, the ſum of eight hundred forty ſeven pounds for three months.</p>
+            <p>The Countie of <hi>Corke,</hi> with the Citie and Countie thereof, the ſum of three thouſand nine handred eighty eight pounds for three months.</p>
+            <p>The Countie of <hi>Waterford,</hi> with the Citie and County thereof the ſum of one thouſand three hundred and two pounds for three months.</p>
+            <p>The Countie of <hi>Kerry,</hi> the ſum of two hundred fifty five pounds for three months.</p>
+            <p>The Countie of <hi>Tipperary,</hi> including <hi>Ho<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>croſs,</hi> the ſum of one thouſand nine hundred and forty pounds for three months.</p>
+            <p>The Countie of <hi>Clare,</hi> the ſum of four hundred and fifty pounds for three months.</p>
+            <pb n="4" facs="tcp:152676:4"/>
+            <!-- PDF PAGE 49 -->
+            <p>The Countie of <hi>Donegal</hi> or <hi>Tirconel,</hi> the ſum of one thouſand, two hundred and forty pounds, for three months.</p>
+            <p>The Countie of <hi>Tirone,</hi> including upper and nether <hi>Tirone,</hi> the ſum of three hundred and ninety pounds for three months.</p>
+            <p>The County of <hi>Fermanagh,</hi> the ſum of three hundred and ſeventeen pounds for three months.</p>
+            <p>The County of <hi>Cavan,</hi> the ſum of two hundred twenty nine pounds for three months.</p>
+            <p>The Countie of <hi>Monaghan,</hi> the ſum of one hundred twenty nine pounds for three months.</p>
+            <p>The Countie of <hi>Antrim,</hi> with the Town and Countie of <hi>Carrickfergus,</hi> the ſum of two thouſand and ſeventie pounds for three months.</p>
+            <p>The Countie of <hi>Downe,</hi> the ſum of ſeventeen hun<g ref="char:EOLhyphen"/>dred and forty pounds, for three months.</p>
+            <p>The County of <hi>Ardmagh,</hi> the ſum of two hundred and nineteen pounds for three months.</p>
+            <p>The Countie of <hi>London-Derry,</hi> with the Citie and Countie thereof, and the Town and Barony of <hi>Colera<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e,</hi> the ſum of one thouſand two hundred and fifty pounds for three months.</p>
+            <p>The County of <hi>Lowth,</hi> the ſum of ſeven hundred forty eight pounds for three months.</p>
+            <p>The Countie of <hi>Roſcomon,</hi> the ſum of ſix hundred and ſixtie pounds for three months.</p>
+            <pb n="5" facs="tcp:152676:4"/>
+            <!-- PDF PAGE 49 -->
+            <p>The Countie of <hi>Mayo,</hi> the ſum of four hundred and thirtie pounds, for three months.</p>
+            <p>The Countie of <hi>Sligo,</hi> the ſum of five hundred pounds for three months.</p>
+            <p>The Countie of <hi>Letrim,</hi> the ſum of fifty pounds for three months.</p>
+            <p>The Countie of <hi>Gallway,</hi> the ſum of two thouſand three hundred and forty pounds for three months.</p>
+            <p>And it is further Ordered, That the ſeveral Com<g ref="char:EOLhyphen"/>miſſioners of the reſpective Counties and Places, no<g ref="char:EOLhyphen"/>minated in an Order and Commiſſion for the Aſſeſ<g ref="char:EOLhyphen"/>ment, bearing date the firſt of <hi>Ianuary</hi> laſt; as alſo thoſe that are appointed by Order in writing from us, ſhall be and are hereby Ordered to be Commiſ<g ref="char:EOLhyphen"/>ſioners for the Aſſeſſing, Leavying, and Collecting the Aſſeſments aforeſaid.</p>
+            <p>And it is further Ordered, That the ſaid Commiſ<g ref="char:EOLhyphen"/>ſioners appointed for the reſpective Counties and Cities aforeſaid, ſhall in Aſſeſſing, Leavying and Collecting the Aſſeſment aforeſaid, obſerve the Directions and In<g ref="char:EOLhyphen"/>ſtructions in the aforemention'd Order and Commiſſion for the Aſſeſments, bearing date the firſt of <hi>Ianuary</hi> a<g ref="char:EOLhyphen"/>foreſaid, and the reſpective powers and directions in the ſaid Order and Commiſſion, the aforeſaid Commiſſion<g ref="char:EOLhyphen"/>ers or any three of them, are empowered to put in effe<g ref="char:EOLhyphen"/>ctual execution. Provided nevertheleſs, That if the way of a pound rate ſhall prove prejudicial and obſtru<g ref="char:EOLhyphen"/>ctive to the bringing in of the ſaid three Months Aſſeſ<g ref="char:EOLhyphen"/>ment, hereby appointed or ordered; that then and in all ſuch caſes the major part of the ſaid Commiſſioners in any of the Counties and Cities aforeſaid being met ac<g ref="char:EOLhyphen"/>cording
+<pb n="6" facs="tcp:152676:5"/>
+               <!-- PDF PAGE 50 -->to Summons for that purpoſe to be given by the Receivers in each County, ſhall be and are authori<g ref="char:EOLhyphen"/>zed to proceed accordingly, to the moſt juſt and equal way of rates held in ſuch places in the apportioning, Aſſeſſing and Leavying the reſpective Sums charged upon them: Provided, That notwithſtanding any for<g ref="char:EOLhyphen"/>mer practice or directions, no Commiſſioners hereby or formerly nominated, ſhall be forced to go out of the Country for which they ſerve or are appointed for the managing the ſaid Aſſeſments. And to the end no im<g ref="char:EOLhyphen"/>pediment may be in managing the work aforeſaid, the ſaid Commiſſioners, or any five or more of them, are hereby empowered to chuſe, nominate and appoint ſuch fitting Clerk or Clerks, as ſhall be neceſſary for trans<g ref="char:EOLhyphen"/>ſcribing the ſaid Aſſeſments, Certificates or other Pa<g ref="char:EOLhyphen"/>pers relating to the ſaid Aſſeſment.</p>
+            <p>And it is hereby further Ordered, That the ſaid Commiſſioners do make returns of the ſaid Aſſeſments to the Commiſſioners General, and the reſpective Re<g ref="char:EOLhyphen"/>ceivers according as in the aforementioned Aſseſment is directed.</p>
+            <closer>
+               <dateline>Dated at <hi>Dublin</hi> 
+                  <date>the fifth of <hi>April, 1655.</hi>
+                  </date>
+               </dateline>
+               <signed>
+                  <hi>Tho. Herbert, <hi>Clerk of the Council.</hi>
+                  </hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="license">
+            <head>By the Lord Deputy and Council.</head>
+            <p>Ordered by the Lord Deputy and Council, That this Commiſſion for the Aſ<g ref="char:EOLhyphen"/>ſeſment be forthwith Printed and Pub<g ref="char:EOLhyphen"/>liſhed.</p>
+            <closer>
+               <signed>
+                  <hi>Thomas Herbert</hi> Clerk of the Council.</signed>
+               <dateline>
+                  <date>
+                     <hi>April</hi> 5. 1655.</date>
+               </dateline>
+            </closer>
+            <pb facs="tcp:152676:5"/>
+            <!-- PDF PAGE 50 -->
+         </div>
+      </body>
+   </text>
+</TEI>
